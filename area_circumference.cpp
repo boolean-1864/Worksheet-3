@@ -14,7 +14,7 @@ int main()
 	a = r*r*3.14;
 
 	cout<<"Area = "<<a<<endl;
-	cout<<"Circumferance = "<<c;
+	cout<<"Circumferance = "<<c<<endl;
 return 0;
 
 }
