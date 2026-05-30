@@ -12,7 +12,8 @@ int main()
 	cin>>r;
 
 	a = r*r*3.14;
-
+	c = 2*3.14*r;
+	
 	cout<<"Area = "<<a<<endl;
 	cout<<"Circumferance = "<<c<<endl;
 return 0;
